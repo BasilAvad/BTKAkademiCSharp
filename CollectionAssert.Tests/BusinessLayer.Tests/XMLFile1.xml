@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<kullancilar>
+	<kullanci ad="Basil" telefon="35849547376" mail="basilavad9@gmail.com"/>
+	<kullanci ad="Ali Ahmet" telefon="5776767" mail="basilavad9@gmail.com"/>
+	<kullanci ad="Veli" telefon="367837" mail="basilavad9@gmail.com"/>
+	<kullanci ad="Mehmet" telefon="0989786757" mail="basilavad9@gmail.com"/>
+	<kullanci ad="Mustafa" telefon="3454656" mail="basilavad9@gmail.com"/>
+	<kullanci ad="Engin" telefon="1233454" mail="basilavad9@gmail.com"/>
+	<kullanci ad="murat" telefon="2398998" mail="basilavad9@gmail.com"/>
+	<kullanci ad="Cevdet" telefon="454545" mail="basilavad9@gmail.com"/>
+</kullancilar>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{E01CA7D0-D7A9-4169-949E-6083B2B8999E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{B3739E4A-F6CF-45B5-AA9D-7E7E84B03DEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E01CA7D0-D7A9-4169-949E-6083B2B8999E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E01CA7D0-D7A9-4169-949E-6083B2B8999E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E01CA7D0-D7A9-4169-949E-6083B2B8999E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E01CA7D0-D7A9-4169-949E-6083B2B8999E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3739E4A-F6CF-45B5-AA9D-7E7E84B03DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3739E4A-F6CF-45B5-AA9D-7E7E84B03DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3739E4A-F6CF-45B5-AA9D-7E7E84B03DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3739E4A-F6CF-45B5-AA9D-7E7E84B03DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B29DBBE-0B68-4B6B-B3DD-6D61A437A1D0}
+	EndGlobalSection
+EndGlobal

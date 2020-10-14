@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototytpe", "Prototytpe\Prototytpe.csproj", "{0336801A-998D-4DC8-AAAF-7F0233BF7577}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{8F9333CA-6FAB-45E1-8043-3FB10462569B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0336801A-998D-4DC8-AAAF-7F0233BF7577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0336801A-998D-4DC8-AAAF-7F0233BF7577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0336801A-998D-4DC8-AAAF-7F0233BF7577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0336801A-998D-4DC8-AAAF-7F0233BF7577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F9333CA-6FAB-45E1-8043-3FB10462569B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F9333CA-6FAB-45E1-8043-3FB10462569B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F9333CA-6FAB-45E1-8043-3FB10462569B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F9333CA-6FAB-45E1-8043-3FB10462569B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {656C14B7-A46E-4DAC-86B4-3AF49CD4F256}
+	EndGlobalSection
+EndGlobal
